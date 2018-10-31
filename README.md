@@ -1,3 +1,6 @@
+FFmpegOut Binaries
+------------------
+
 This is a separated binary package of [FFmpegOut] (Unity video capture plugin).
 
 [FFmpegOut]: https://github.com/keijiro/FFmpegOut
@@ -15,4 +18,4 @@ macOS) and [John Van Sickle's FFmpeg Builds] (Linux).
 
 These binaries are licensed under [GPL], so the package is also put under GPL.
 
-[GPL](LICENSE.txt)
+[GPL]: LICENSE.txt
