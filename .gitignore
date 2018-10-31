@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Vim
+*.swp
+
+# Unity
+/Library
+/Logs
+/Temp
+
+/Assets/StreamingAssets/FFmpegOut/Windows/ffmpeg.exe
+/Assets/StreamingAssets/FFmpegOut/macOS/ffmpeg
+/Assets/StreamingAssets/FFmpegOut/Linux/ffmpeg
